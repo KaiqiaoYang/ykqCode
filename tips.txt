@@ -1,0 +1,2 @@
+vector比数组好用
+c用malloc较多，c++用new较多

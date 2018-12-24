@@ -1,0 +1,6 @@
+C:\Users\ykq\Desktop\新建文件夹\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\ykq\Desktop\新建文件夹\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ykq\Desktop\新建文件夹\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ykq\Desktop\新建文件夹\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ykq\Desktop\新建文件夹\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\ykq\Desktop\新建文件夹\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

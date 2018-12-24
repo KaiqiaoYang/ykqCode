@@ -1,0 +1,2 @@
+C:\Users\ykq\Desktop\长光卫星\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\ykq\Desktop\长光卫星\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
