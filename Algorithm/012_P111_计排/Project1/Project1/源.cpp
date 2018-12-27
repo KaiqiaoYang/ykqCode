@@ -27,6 +27,10 @@ void countSort(int* a, int n)//计数排序
 	}
 	int bLength = max - min + 2;
 	int* b = new int[bLength];
+	for (int i = 0; i<bLength; i++)
+	{
+		b[i] = 0;
+	}
 	for (int i = 0; i<n; i++)
 	{
 		(b[a[i] - min + 1])++;
@@ -38,14 +42,15 @@ void countSort(int* a, int n)//计数排序
 	int* c = new int[n];
 	for (int i = 0; i<n; i++)
 	{
-		c[b[a[i] - min]++] = a[i];
+		c[b[a[i] - min]] = a[i];
+		b[a[i] - min]++;
 	}
 	for (int i = 0; i<n; i++)
 	{
 		a[i] = c[i];
 	}
-	delete[] b;
-	delete[] c;
+	//delete b;
+	//delete c;
 }
 
 void main()
